@@ -12,7 +12,7 @@ I'm a passionate developer who loves working on open-source projects and solving
 - **Tools**: Git, Docker
 
 ## 📈 GitHub Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya&show_icons=true)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya242401&show_icons=true)
 
 ## 📬 How to reach me:
 - Email: aditya242401@gmail.com
