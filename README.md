@@ -7,7 +7,7 @@ I'm a passionate developer who loves working on open-source projects and solving
 - Building a personal portfolio site
 
 ## 🔧 Technologies & Tools:
-- **Frontend**: React, React Native, HTML, CSS, JavaScript, TypeScript
+- **Frontend**: ![Static Badge](https://img.shields.io/badge/React-blue), ![Static Badge](https://img.shields.io/badge/React_Native-green), HTML, CSS, JavaScript, TypeScript
 - **Backend**: Node.js, Express, MongoDB, MySQL, PostgreSQL
 - **Tools**: Git, Docker
 
